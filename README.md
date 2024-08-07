@@ -29,7 +29,7 @@ Data visualization using Seaborn and Matplotlib
 Data manipulation and analysis using Pandas
 
 
-Key Features:
+KEY FEATURES:
 
 Exploratory data analysis of car dataset
 Data visualization using Seaborn and Matplotlib
